@@ -1,5 +1,5 @@
 import React from 'react'
-import Typed from 'react-typed';
+
 
 
 const Home = () => {
@@ -10,8 +10,8 @@ const Home = () => {
       <h1 className='md:text-7xl sm:text-6xl  text-4xl font-bold md:py-3'>Grow with data </h1>
       <div className='flex justify-center items-center'>
         <p className='md:text-5xl sm:text-4xl text-xlf font-bold'>fast flexing financing for client</p>
-     <Typed className='md:text-5xl sm:text-4xl text-xl font-bold px-2'
-     strings={['BTS' , 'BTC' , 'SASS' ]} typeSpeed={120} backSpeed={140} loop/>
+     {/* <Typed className='md:text-5xl sm:text-4xl text-xl font-bold px-2'
+     strings={['BTS' , 'BTC' , 'SASS' ]} typeSpeed={120} backSpeed={140} loop/> */}
      </div>
      <p className='md:5xl sm:text-3xl text-gray-500 font-bold'>
       Monitor your data analytic to increase revenue for BTB,BTC,& SASS platform
