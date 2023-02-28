@@ -1,4 +1,4 @@
-
+import React from 'react'
 import lap from '../Assets/laptop.jpg'
 
 const Analytics = () => {
